@@ -1,5 +1,4 @@
 # qldaotao
-*Fronend*: 
-- `html, css, boostrap`
-*Backend*: `php`
-*Database*: `MySQL`
+*Fronend*: html, css, boostrap.
+*Backend*: `php`.
+*Database*: `MySQL`.
