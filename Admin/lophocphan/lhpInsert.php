@@ -43,11 +43,11 @@
             <form action="" method="POST">
                 <div class="form-group">
                     <label>Tên lớp</label>
-                    <input type="text" name="tenlop" class="form-control" placeholder="Nhập tên lớp">
+                    <input type="text" name="tenlop" class="form-control" placeholder="Nhập tên lớp" required>
                 </div>
                 <div class="form-group">
                     <label>Số lượng</label>
-                    <input type="number" name="soluong" class="form-control" placeholder="Nhập số lượng sinh viên">
+                    <input type="number" name="soluong" class="form-control" placeholder="Nhập số lượng sinh viên" required>
                 </div>
                 <div class="form-group">
                     <label>Năm học</label>
